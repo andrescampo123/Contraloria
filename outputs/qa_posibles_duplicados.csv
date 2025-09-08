@@ -1,0 +1,2 @@
+dataset,cantidad,detalle
+SECOP,9,"Claves ['id_proceso', 'numero_contrato', 'vigencia', 'nit', 'valor_contrato', 'fecha_firma']. Registros antes=28, despues=19"
